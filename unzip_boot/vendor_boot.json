@@ -14,13 +14,13 @@
   "ramdisk" : {
     "file" : "build/unzip_boot/ramdisk.img.lz4",
     "position" : 4096,
-    "size" : 49520602,
+    "size" : 49729191,
     "loadAddr" : 1727004672,
     "xzFlags" : null
   },
   "dtb" : {
     "file" : "build/unzip_boot/dtb",
-    "position" : 49524736,
+    "position" : 49733632,
     "size" : 396043,
     "loadAddr" : 1204289536,
     "dtbList" : [ ]
@@ -28,9 +28,9 @@
   "ramdisk_table" : {
     "size" : 216,
     "eachEntrySize" : 108,
-    "position" : 49922048,
+    "position" : 50130944,
     "ramdidks" : [ {
-      "size" : 35955548,
+      "size" : 36163965,
       "offset" : 0,
       "type" : "PLATFORM",
       "name" : "",
@@ -38,8 +38,8 @@
       "boardIdStr" : "",
       "file" : "build/unzip_boot/ramdisk.1.lz4"
     }, {
-      "size" : 13565054,
-      "offset" : 35955548,
+      "size" : 13565226,
+      "offset" : 36163965,
       "type" : "RECOVERY",
       "name" : "recovery",
       "boardId" : "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",

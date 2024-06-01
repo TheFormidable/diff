@@ -28,7 +28,7 @@
       "num_bytes_following" : 176,
       "sequence" : 2,
       "key" : "com.android.build.vendor_boot.fingerprint",
-      "value" : "Xiaomi/hal_mgvi_64_armv82_mt6897_global/mgvi_64_armv82:14/UP1A.230905.011/V816.0.4.0.UNLMIXM:user/release-keys"
+      "value" : "Xiaomi/hal_mgvi_64_armv82_mt6897_global/mgvi_64_armv82:14/UP1A.230905.011/V816.0.9.0.UNLMIXM:user/release-keys"
     } ],
     "hashTreeDescriptors" : [ ],
     "hashDescriptors" : [ {
@@ -38,9 +38,9 @@
       "flags" : 0,
       "partition_name" : "vendor_boot",
       "hash_algorithm" : "sha256",
-      "image_size" : 49926144,
-      "salt" : "JxrvlKsqFEpocQpn4Ni068H4Rxgsj9EtbCh+HPlNg/g=",
-      "digest" : "p6lpthX2Gh7dfqTCLO4TIJt6P8WVdwGOJkxxkzhaVIM=",
+      "image_size" : 50135040,
+      "salt" : "krK1/99dvch4UzOg8+ODXI/bQ/sL+qE02KUpTwqHXY8=",
+      "digest" : "2JF6c18FpmnI/3O49gCuXMLNdUQsABs3Naf//puPBbg=",
       "partition_name_len" : 11,
       "salt_len" : 32,
       "digest_len" : 32,
@@ -53,8 +53,8 @@
   "footer" : {
     "versionMajor" : 1,
     "versionMinor" : 0,
-    "originalImageSize" : 49926144,
-    "vbMetaOffset" : 49926144,
+    "originalImageSize" : 50135040,
+    "vbMetaOffset" : 50135040,
     "vbMetaSize" : 704
   }
 }
